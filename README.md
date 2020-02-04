@@ -15,9 +15,9 @@ This module contains various Machine Learning algorithms, simplified and applied
 # How to Use
 
 ```
-import { LinearRegressionUni } from 'machine-learning-applied';
-import { LinearRegressionMulti } from 'machine-learning-applied';
-import { LogisticPrediction } from 'machine-learning-applied';
+var {LinearRegressionUni} = require('machine-learning-applied');
+var {LinearRegressionMulti} = require('machine-learning-applied');
+var {LogisticPrediction} = require('machine-learning-applied');
 ```
 
 LinearRegressionUni takes an input array and an output array of numbers, and the target input for which prediction is to happen. Then, it outputs the predicted number.
