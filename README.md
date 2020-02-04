@@ -45,6 +45,3 @@ I am actively seeking a full-time position. Please let me know if you know of an
 The MIT License © 2020 Massi Faqiri. All rights reserved.
 
 **Enjoy!**
-
-
-Test test test!
