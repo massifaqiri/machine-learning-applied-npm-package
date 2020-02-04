@@ -1,0 +1,32 @@
+{
+  "name": "machine-learning-applied",
+  "displayName": "Machine Learning Applied",
+  "version": "1.0.1",
+  "description": "Various machine learning algorithms simplified and applied",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faqima01/machine-learning-applied-npm-package.git"
+  },
+  "author": "Massi Faqiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faqima01/machine-learning-applied-npm-package/issues"
+  },
+  "homepage": "https://github.com/faqima01/machine-learning-applied-npm-package",
+  "keywords": [
+    "machine learning",
+    "ml",
+    "linear regression",
+    "logistic regression",
+    "ml applied",
+    "prediction",
+    "data analysis"
+  ],
+  "dependencies": {
+    "mathjs": "^6.6.0"
+  }
+}
