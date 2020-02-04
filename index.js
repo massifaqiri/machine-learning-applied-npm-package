@@ -5,6 +5,6 @@
 * @license MIT
 */
 
-export {LinearRegressionUni as LinearRegressionUni} from './src/LinearRegressionUni';
-export {LinearRegressionMulti as LinearRegressionMulti} from './src/LinearRegressionMulti';
-export {LogisticPrediction as LogisticPrediction} from './src/LogisticRegression';
+exports.LinearRegressionUni = require('./src/LinearRegressionUni');
+exports.LinearRegressionMulti = require('./src/LinearRegressionMulti');
+exports.LogisticPrediction = require('./src/LogisticRegression');
