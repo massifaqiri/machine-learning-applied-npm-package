@@ -1,7 +1,7 @@
 {
   "name": "machine-learning-applied",
   "displayName": "Machine Learning Applied",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Various machine learning algorithms simplified and applied",
   "main": "index.js",
   "scripts": {
