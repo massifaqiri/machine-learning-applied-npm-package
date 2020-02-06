@@ -1,6 +1,6 @@
 # Machine Learning Applied
 
-This module contains various Machine Learning algorithms, simplified and applied. This module is inspired by 'Machine Learning' course of Andrew Ng at Coursera. My goal is to keep expanding it. Feel free to contribute!
+This package contains various Machine Learning algorithms, simplified and applied. This package is inspired by 'Machine Learning' course of Andrew Ng at Coursera. My goal is to keep expanding it. Feel free to contribute!
 
 # Features
 
@@ -35,6 +35,7 @@ Each of the above functions are well-documented. So, while you use the function,
 * Image Classifier
 * Neural Network
 * K-means Clustering
+* and more...
 
 # Quick Note
 
