@@ -27,6 +27,6 @@
     "data analysis"
   ],
   "dependencies": {
-    "mathjs": "^6.6.0"
+    "mathjs": "^7.5.1"
   }
 }
